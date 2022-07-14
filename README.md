@@ -1,0 +1,2 @@
+# CMD.EXE
+ Toy malware
